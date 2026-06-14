@@ -1,10 +1,10 @@
-# STTP DApp
+# STPP DApp
 
-**STTP (Secure Token Presale Protocol)** is a permissionless, decentralized presale platform built on Ethereum that solves critical problems in token launch mechanisms.
+**STPP (Secure Token Presale Protocol)** is a permissionless, decentralized presale platform built on Ethereum that solves critical problems in token launch mechanisms.
 
-## What is STTP?
+## What is STPP?
 
-STTP combines three complementary mechanisms to create a secure and fair token launch framework:
+STPP combines three complementary mechanisms to create a secure and fair token launch framework:
 
 1. **Commit-Reveal Dutch Auction** — Fair price discovery through cryptographic commitments and time-locked reveals
 2. **Liquidity Bootstrapping Pool (LBP)** — Post-auction price formation with gradual weight adjustments and oracle-driven adaptive fees
@@ -12,13 +12,13 @@ STTP combines three complementary mechanisms to create a secure and fair token l
 
 ## Problems Solved
 
-Traditional presale models suffer from several critical issues that STTP addresses:
+Traditional presale models suffer from several critical issues that STPP addresses:
 
 - **Unfair Allocation** — Bots and well-connected participants often get preferential treatment
 - **Price Manipulation** — Front-running and MEV (Maximal Extractable Value) exploitation distort prices
 - **Immediate Dumping** — Token price crashes due to coordinated sell-offs after launch
 
-## How STTP Works
+## How STPP Works
 
 ### Security Mechanisms
 
